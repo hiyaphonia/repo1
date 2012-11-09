@@ -1,6 +1,6 @@
 FirstApp::Application.routes.draw do
 
-get "/rails/info/properties"
+get "rails/info/properties"
   # The priority is based upon order of creation:
   # first created -> highest priority.
 
